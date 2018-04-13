@@ -1,0 +1,10 @@
+body {font-family: 'Cutive Mono', monospace;}
+h1 {font-family: 'Racing Sans One', cursive;}
+h2 {font-family: 'Racing Sans One',cursive; color: #DF0101;}
+h3 {font-family: 'Cutive Mono', monospace;}
+a:link, a:visited, a:active {
+	color: #232323;
+}
+
+
+nav { background: url("imagenes/background_nav.png") top fixed #232323 repeat;}
